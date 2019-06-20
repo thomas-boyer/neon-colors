@@ -1,4 +1,4 @@
-const palette =
+const neon =
 {
   "blue": "#4deeea",
   "green": "#74ee15",
@@ -7,4 +7,4 @@ const palette =
   "orange": "#ff6600"
 }
 
-module.exports = palette;
+module.exports = neon;

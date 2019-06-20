@@ -1,6 +1,6 @@
 {
   "name": "neon-colors",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Easily add neon colors to your React components",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "neon-colors"
+    "url": "https://github.com/thomas-boyer/neon-colors"
   },
   "author": "Thomas Boyer",
   "license": "ISC"
